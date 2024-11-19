@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(135, 222, 222);
+}
+.imgen{
+    padding-left: 100%;
+}
+.imge{
+
+    background-size:100px , 200px ;
+}
+.estilo{
+    color: tomato;
+    font-style:oblique ;
+    width: 50px;
+    height:  20px;
+    background:yellow;
+    font-weight: bold;
+}
+.cuadrado{
+    font-weight: bold;
+    width: 200px;
+    height:  100px;
+    background:aquamarine;
+}
+.colombia{
+    font-weight: bold;
+    color: tomato;
+    font-style:oblique ;
+    width: 65px;
+    height:  20px;
+    background:yellow;
+}
+div{
+    width: 100px;
+  height: 100px;
+  background-color: rgb(163, 255, 127);
+  transform: rotate(45deg); 
+  background: linear-gradient(orange 0%, blue 100%); 
+}
+a{
+    color: rgb(255, 71, 71);
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+    font-family: Arial;
+
+}
